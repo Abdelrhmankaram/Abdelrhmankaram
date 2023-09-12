@@ -8,7 +8,7 @@
 
 
 <h3> About Me</h3> 
-<h4>I'm an Undergraduated, AI student at Benha - FCAI.</h4>
+<h4>I am a `Student` from the [Faculty of Computers & Artificial Intelignece](https://fci.bu.edu.eg/) at [Benha University](https://bu.edu.eg/)</h4>
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/black.gif" width= 25% height=95px>
 

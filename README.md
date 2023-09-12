@@ -9,7 +9,7 @@
 
 <h3> About Me</h3> 
 <h4>
-  <br><br>
+  <br>
 - 📛 I am Ahmed Yasser Taha. 
 - :school: I am a `Student` from the [Faculty of Computers & Artificial Intelignece](https://fci.bu.edu.eg/) at [Benha University](https://bu.edu.eg/)
 - :computer: I am a competitive programmer at `Codeforces`, `Leetcode` and `Codechef`.

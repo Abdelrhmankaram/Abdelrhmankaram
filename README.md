@@ -7,7 +7,9 @@
 
 - 📫 How to reach me **abdelrhmankaram171@gmail.com**
 
-- 📄 Know about my experiences Through [My Resume](https://drive.google.com/file/d/1hecHiqMSJ-uU0GVVJhPNpsaIc64UN9St/view?usp=drive_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1hecHiqMSJ-uU0GVVJhPNpsaIc64UN9St/view?usp=drive_link](https://drive.google.com/file/d/1hecHiqMSJ-uU0GVVJhPNpsaIc64UN9St/view?usp=drive_link)
+
+- ⚡ Fun fact **I really do love spider man🕷️🕸️**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

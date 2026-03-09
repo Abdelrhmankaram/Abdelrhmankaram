@@ -19,31 +19,35 @@
 
 ---
 
-### 🌐 Connect with Me
 <p align="center">
-<a href="https://www.linkedin.com/in/abdelrahmankaram03/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.kaggle.com/abdelrhmankaram"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-<a href="https://www.facebook.com/abdelrhman.karam.715913"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/abdelrhmankrrrm"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="Codeforces" height="30" width="40" /></a>
-<a href="https://leetcode.com/u/abdelrhmankaram/"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/abdelrahmankaram03/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.kaggle.com/abdelrhmankaram" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" height="40" alt="Kaggle" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://leetcode.com/u/abdelrhmankaram/" target="_blank"><img src="https://cdn.simpleicons.org/leetcode/%23FFA116" width="40" height="40" alt="LeetCode" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://codeforces.com/profile/abdelrhmankrrrm" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" width="40" height="40" alt="Codeforces" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.facebook.com/abdelrhman.karam.715913" target="_blank"><img src="https://cdn.simpleicons.org/facebook/%231877F2" width="40" height="40" alt="Facebook" /></a>
 </p>
 
 ---
 
-### 🛠 Languages and Tools
+### 🛠 Languages & Core
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" title="Python" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" title="Hadoop" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" title="Hive" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" title="Kafka" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" title="PostgreSQL" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" width="40" height="40"/>
-  <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" title="Docker" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" title="Git" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" title="Linux" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg" title="Grafana" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" title="Bash" width="40" height="40"/>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,bash,arduino&perline=10" />
+  </a>
+</p>
+
+### 📊 Data Engineering & Databases
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,graphql,firebase&perline=10" />
+  </a>
+</p>
+
+### ⚙️ Tools & DevOps
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=docker,git,linux,github,vscode,postman,grafana&perline=10" />
+  </a>
 </p>
 
 ---

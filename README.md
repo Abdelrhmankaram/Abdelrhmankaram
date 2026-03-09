@@ -32,7 +32,7 @@
 ### 🛠 Languages & Core
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,cpp,js,ts,bash,arduino&perline=10" />
+    <img src="https://skillicons.dev/icons?i=py,cpp,js,bash,arduino&perline=10" />
   </a>
 </p>
 
@@ -46,7 +46,7 @@
 ### ⚙️ Tools & DevOps
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,linux,github,vscode,postman,grafana,azure,ai,ps,sklearn,tensorflow,pytorch,opencv&perline=10" />
+    <img src="https://skillicons.dev/icons?i=docker,vim,git,linux,github,vscode,grafana,azure,redhat,notion,discord,ai,ps,sklearn,tensorflow,pytorch,opencv&perline=10" />
   </a>
 </p>
 

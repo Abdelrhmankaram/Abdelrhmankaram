@@ -39,14 +39,14 @@
 ### 📊 Data Engineering & Databases
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,graphql,firebase,snowflake,sqlite,mssql,oracle,hadoop,hive,kafka,pandas&perline=10" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,graphql,firebase,sqlite,kafka&perline=10" />
   </a>
 </p>
 
 ### ⚙️ Tools & DevOps
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,git,linux,github,vscode,postman,grafana,azure,ai,ps,sklearn,tensorflow,pytorch,opencv,seaborn&perline=10" />
+    <img src="https://skillicons.dev/icons?i=docker,git,linux,github,vscode,postman,grafana,azure,ai,ps,sklearn,tensorflow,pytorch,opencv&perline=10" />
   </a>
 </p>
 

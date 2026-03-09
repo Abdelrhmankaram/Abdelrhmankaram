@@ -39,7 +39,7 @@
 ### 📊 Data Engineering & Databases
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,graphql,firebase,sqlite,kafka&perline=10" />
+    <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,graphql,firebase,kafka&perline=10" />
   </a>
 </p>
 

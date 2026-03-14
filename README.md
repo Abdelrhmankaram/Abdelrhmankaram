@@ -13,8 +13,11 @@
 
 ### 🚀 About Me
 - 🌱 I’m currently learning **Big Data Engineering**.
+  
 - 📫 How to reach me: **abdelrhmankaram171@gmail.com**
+  
 - 📄 Know about my experiences: [Resume/CV](https://drive.google.com/file/d/1hecHiqMSJ-uU0GVVJhPNpsaIc64UN9St/view?usp=drive_link)
+  
 - ⚡ Fun fact: **I really do love Spider-Man 🕷️🕸️**
 
 ---

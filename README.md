@@ -22,13 +22,17 @@
 
 ---
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/abdelrahmankaram03/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.kaggle.com/abdelrhmankaram" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" height="40" alt="Kaggle" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://leetcode.com/u/abdelrhmankaram/" target="_blank"><img src="https://cdn.simpleicons.org/leetcode/%23FFA116" width="40" height="40" alt="LeetCode" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://codeforces.com/profile/abdelrhmankrrrm" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" width="40" height="40" alt="Codeforces" /></a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://www.facebook.com/abdelrhman.karam.715913" target="_blank"><img src="https://cdn.simpleicons.org/facebook/%231877F2" width="40" height="40" alt="Facebook" /></a>
-</p>
+<div align="center">
+  <table border="0" cellspacing="10" cellpadding="0">
+    <tr>
+      <td align="center"><a href="https://www.linkedin.com/in/abdelrahmankaram03/" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" width="40" height="40" alt="LinkedIn" /></a></td>
+      <td align="center"><a href="https://www.kaggle.com/abdelrhmankaram" target="_blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" width="40" height="40" alt="Kaggle" /></a></td>
+      <td align="center"><a href="https://leetcode.com/u/abdelrhmankaram/" target="_blank"><img src="https://cdn.simpleicons.org/leetcode/%23FFA116" width="40" height="40" alt="LeetCode" /></a></td>
+      <td align="center"><a href="https://codeforces.com/profile/abdelrhmankrrrm" target="_blank"><img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg" width="40" height="40" alt="Codeforces" /></a></td>
+      <td align="center"><a href="https://www.facebook.com/abdelrhman.karam.715913" target="_blank"><img src="https://cdn.simpleicons.org/facebook/%231877F2" width="40" height="40" alt="Facebook" /></a></td>
+    </tr>
+  </table>
+</div>
 
 ---
 
